@@ -1,0 +1,6 @@
+{
+    "Lua.diagnostics.disable": [
+        "trailing-space"
+    ],
+    "editor.fontSize": 18
+}
